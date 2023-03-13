@@ -1,0 +1,21 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "A express.js project to send and download files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
