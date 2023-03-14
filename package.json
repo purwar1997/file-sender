@@ -1,7 +1,7 @@
 {
   "name": "express-project",
   "version": "1.0.0",
-  "description": "A express.js project to send and download files",
+  "description": "A express.js project to send files as documents or downloadable attachments",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
